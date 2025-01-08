@@ -62,8 +62,8 @@ There are several ways to improve the recommendation system:
 -Consider hybrid approaches combining collaborative and content-based methods.
 ## References
 
-- Author: Mirza Salman
-- Contact: salmansaluu661@gmail.com
+- Author: Muhammad Mubashir Ali
+- Contact: muhammadmubashirali63@gmai.com
 
 Feel free to customize this README to include any additional information you want to provide about the project.
 
